@@ -1,5 +1,5 @@
 ## Leave Management System
 
-This is a system
+This is a system 
 
 ## Official Documentation
