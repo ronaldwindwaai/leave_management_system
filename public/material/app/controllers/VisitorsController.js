@@ -4,6 +4,7 @@
         .controller('VisitorsController', [
             VisitorsController
         ]);
+    .module(
 
     function VisitorsController() {
         var vm = this;

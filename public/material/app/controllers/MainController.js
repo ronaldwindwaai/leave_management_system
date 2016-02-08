@@ -39,6 +39,7 @@
     function selectItem (item) {
       vm.title = item.name;
       vm.toggleItemsList();
+      vm.title.bold()
       vm.showSimpleToast(vm.title);
     }
 
